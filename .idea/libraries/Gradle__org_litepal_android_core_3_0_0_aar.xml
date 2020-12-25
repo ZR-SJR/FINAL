@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.litepal.android:core:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://F:/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/27f580871cbfa3b90236c1c0f39dbd6b/jars/classes.jar!/" />
+      <root url="file://F:/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/27f580871cbfa3b90236c1c0f39dbd6b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/.gradle/caches/modules-2/files-2.1/org.litepal.android/core/3.0.0/aee6bfbad95aadfd0903570b5d110eb3d02921ca/core-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
